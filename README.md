@@ -1,12 +1,19 @@
 # 👋 Olá, sou Mario Alex Camilo Junior
 
-🚀 **Sobre Mim**  
+<br>
+
+
+## 🚀 [Sobre Mim](https://www.linkedin.com/in/marioalexcamilojr/)
+
 Sou um profissional de **Tecnologia da Informação**, com grande interesse em **cibersegurança** e **automação de processos**. Embora ainda não tenha experiência profissional na área de segurança, tenho me dedicado ao estudo de **Python** para **otimizar tarefas** e desenvolver **projetos pessoais**.  
 Busco aprimorar minhas habilidades para, no futuro, atuar como **especialista** ou **consultor em cibersegurança**, unindo minha experiência em **sistemas bancários** e automação com práticas avançadas de **proteção de dados e segurança digital**.   
 
-----    
 
-  
+<br>
+
+# 📌 Minhas tecnologias
+
+
  <div align="center">
     <!-- Bancos de Dados -->
     <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
@@ -26,8 +33,10 @@ Busco aprimorar minhas habilidades para, no futuro, atuar como **especialista** 
     <img alt="Linkedin" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </div>  
 
-----  
+<br>
 
+
+# 📊 Stats
 <div align="center">
   <a href="https://github.com/inimigodobowser">
     <img height="145em" src="https://github-readme-stats.vercel.app/api?username=inimigodobowser&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
@@ -36,7 +45,8 @@ Busco aprimorar minhas habilidades para, no futuro, atuar como **especialista** 
 </div>
 
 
-
+<br>
+<br>
 
 
     
