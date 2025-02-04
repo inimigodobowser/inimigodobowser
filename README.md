@@ -7,7 +7,25 @@ Busco aprimorar minhas habilidades para, no futuro, atuar como **especialista** 
 
     
   
-  
+ <div align="center">
+    <!-- Bancos de Dados -->
+    <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
+    <img alt="SQL Server" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+    <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />   
+    <!-- Linguagens -->
+    <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+    <!-- Cloud & Infraestrutura -->
+    <img alt="Google Cloud" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+    <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    <img alt="Windows" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+    <!-- Ferramentas -->
+    <img alt="Vscode" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img alt="JIRA" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+    <img alt="Notion" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+    <!-- Redes Sociais -->
+    <img alt="Linkedin" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</div> 
+
 <div>
   <a href="https://github.com/inimigodobowser">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=inimigodobowser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,19 +36,9 @@ Busco aprimorar minhas habilidades para, no futuro, atuar como **especialista** 
 
 
     
-<div>
- <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>  
 
-    
-**🛠 Habilidades Técnicas**  
-✅ Infraestrutura & Suporte Técnico: Diagnóstico de problemas, administração de sistemas, atendimento ao usuário.  
-✅ Bancos de Dados: MySQL, SQL Server, modelagem e manipulação de dados.  
-✅ Cloud Computing: Fundamentos de Google Cloud, redes e segurança na nuvem.  
-✅ Automação & Scripting: Python (básico), PowerShell, Excel avançado.  
-✅ Metodologias Ágeis: Scrum, Kanban, gerenciamento de backlog e demandas.  
-✅ Cibersegurança: Conceitos de segurança, boas práticas, fundamentos de Cybersecurity (Harvard/EdX).  
-✅ Documentação Técnica & Gestão de Projetos: Registro de processos, criação de relatórios e melhoria contínua.  
+
+  
 
 🧠 **Soft Skills**  
 ✅ Resolução de Problemas – Capacidade de analisar cenários complexos e encontrar soluções eficientes.  
