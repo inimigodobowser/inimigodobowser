@@ -3,6 +3,18 @@
 📍 São Paulo, SP, Brasil | 📧 mario-camilo-junior@hotmail.com.br | 📞 +55 (11) 91118-6633  
 🔗 "[Linkedin](https://www.linkedin.com/in/marioalexcamilojr/)" | 🎓 Google Cloud Skills  
 
+
+<div>
+  <a href="https://github.com/inimigodobowser">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=inimigodobowser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>  
+
+    
+<div>
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>  
+
+    
 🚀 **Sobre Mim**  
 Sou um profissional de **Tecnologia da Informação**, com grande interesse em **cibersegurança** e **automação de processos**. Embora ainda não tenha experiência profissional na área de segurança, tenho me dedicado ao estudo de **Python** para **otimizar tarefas** e desenvolver **projetos pessoais**. 
 Atualmente, presto serviços para a **Topaz**, onde participei da **migração do sistema Progress para .NET**, atuando tanto na área de **TI** quanto em **Backoffice**. Hoje, meu foco está no **tratamento de erros, implementação de melhorias e atendimento a demandas legais no sistema .NET**, além de possuir conhecimento no **ADT Conciliador**, outro sistema da empresa.  
