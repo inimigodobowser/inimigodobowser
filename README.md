@@ -27,27 +27,3 @@ Busco aprimorar minhas habilidades para, no futuro, atuar como **especialista** 
 ✅ Atenção aos Detalhes – Rigor na análise de informações, garantindo segurança e qualidade nas entregas.  
 ✅ Gestão de Tempo – Organização e priorização de tarefas para cumprir prazos e demandas estratégicas.  
   
-**💼 Experiência Profissional**  
-🔹 **Analista de Suporte de TI | AVANTER Aliado Tecnológico**  
-📅 **Mar/2024 - Presente |** Análise e suporte a sistemas .Net da empresa Topaz. Documentação de processos e levantamento de requisitos técnicos. Identificação e resolução de problemas em infraestrutura de TI.  
-
-🔹 **Assistente Administrativo | Banco Alfa de Investimento**  
-📅 **Ago/2022 - Dez/2023 |** Gestão de cronogramas e suporte à equipe de TI para organização das entregas. Documentação técnica e padronização de processos, melhorando fluxos internos. Administração de ferramentas colaborativas e suporte a projetos de TI.  
-
-🔹 **Estagiário - Analista de Sistemas | Banco Alfa de Investimento**  
-📅 **Fev/2021 - Jun/2022 |** Apoio à equipe de suporte técnico, garantindo estabilidade dos sistemas. Implementação de automação de processos para otimizar atividades operacionais. Atualização e manutenção de software, assegurando conformidade e segurança. 
-
-🎓 **Formação Acadêmica**  
-🎓 Pós-graduação em Segurança da Informação | Universidade São Judas (2024 - 2025)  
-🎓 Análise e Desenvolvimento de Sistemas | FAM - Faculdade das Américas (2020 - 2022)  
-🎓 Técnico em Informática | ETEC - Escola Técnica Estadual de São Paulo (2017 - 2018)  
-
-🏆 **Certificações & Cursos**  
-🏅 Fundamentos de Cybersecurity (Harvard/EdX)  
-🏅 Fundamentos de Cloud Computing – Google Cloud  
-🏅 Networking e Segurança em Cloud – Google Cloud  
-🏅 Python para Automação de Tarefas – Udemy  
-
-🗣 **Idiomas**  
-Inglês: Básico a Intermediário (em aprimoramento)  
-Português: Nativo (fluente)  
