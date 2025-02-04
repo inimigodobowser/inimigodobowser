@@ -1,10 +1,21 @@
 # 👋 Olá, sou Mario Alex Camilo Junior
 
+🚀 **Sobre Mim**  
+Sou um profissional de **Tecnologia da Informação**, com grande interesse em **cibersegurança** e **automação de processos**. Embora ainda não tenha experiência profissional na área de segurança, tenho me dedicado ao estudo de **Python** para **otimizar tarefas** e desenvolver **projetos pessoais**. 
+Atualmente, presto serviços para a **Topaz**, onde participei da **migração do sistema Progress para .NET**, atuando tanto na área de **TI** quanto em **Backoffice**. Hoje, meu foco está no **tratamento de erros, implementação de melhorias e atendimento a demandas legais no sistema .NET**, além de possuir conhecimento no **ADT Conciliador**, outro sistema da empresa.  
+Busco aprimorar minhas habilidades para, no futuro, atuar como **especialista** ou **consultor em cibersegurança**, unindo minha experiência em **sistemas bancários** e automação com práticas avançadas de **proteção de dados e segurança digital**.   
 
+    
+  
+  
 <div>
   <a href="https://github.com/inimigodobowser">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=inimigodobowser&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inimigodobowser&layout=compact&langs_count=16&theme=dark"/>
 </div>  
+
+
+
 
     
 <div>
@@ -12,11 +23,6 @@
 </div>  
 
     
-🚀 **Sobre Mim**  
-Sou um profissional de **Tecnologia da Informação**, com grande interesse em **cibersegurança** e **automação de processos**. Embora ainda não tenha experiência profissional na área de segurança, tenho me dedicado ao estudo de **Python** para **otimizar tarefas** e desenvolver **projetos pessoais**. 
-Atualmente, presto serviços para a **Topaz**, onde participei da **migração do sistema Progress para .NET**, atuando tanto na área de **TI** quanto em **Backoffice**. Hoje, meu foco está no **tratamento de erros, implementação de melhorias e atendimento a demandas legais no sistema .NET**, além de possuir conhecimento no **ADT Conciliador**, outro sistema da empresa.  
-Busco aprimorar minhas habilidades para, no futuro, atuar como **especialista** ou **consultor em cibersegurança**, unindo minha experiência em **sistemas bancários** e automação com práticas avançadas de **proteção de dados e segurança digital**.  
-
 **🛠 Habilidades Técnicas**  
 ✅ Infraestrutura & Suporte Técnico: Diagnóstico de problemas, administração de sistemas, atendimento ao usuário.  
 ✅ Bancos de Dados: MySQL, SQL Server, modelagem e manipulação de dados.  
