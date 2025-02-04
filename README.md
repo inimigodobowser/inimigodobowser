@@ -11,7 +11,7 @@ Busco aprimorar minhas habilidades para, no futuro, atuar como **especialista** 
 
 <br>
 
-# 📌 Minhas tecnologias
+## 📌 Minhas tecnologias
 
 
  <div align="center">
@@ -36,7 +36,7 @@ Busco aprimorar minhas habilidades para, no futuro, atuar como **especialista** 
 <br>
 
 
-# 📊 Stats
+## 📊 Stats
 <div align="center">
   <a href="https://github.com/inimigodobowser">
     <img height="145em" src="https://github-readme-stats.vercel.app/api?username=inimigodobowser&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"/>
