@@ -1,7 +1,7 @@
 # 👋 Olá, sou Mario Alex Camilo Junior
 
-📍 São Paulo, SP, Brasil | 📧 mario-camilo-junior@hotmail.com.br | 📞 +55 (11) 91118-6633  
-🔗 "[Linkedin](https://www.linkedin.com/in/marioalexcamilojr/)" | 🎓 Google Cloud Skills  
+
+🔗 "[Linkedin](https://www.linkedin.com/in/marioalexcamilojr/)"  
 
 
 <div>
